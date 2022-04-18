@@ -1,0 +1,2 @@
+En la carpeta prototipo SOM se encuentra el codigo del sistema, en la carpeta red_entrenamiento se encuentra un programa aparte para el entrenamiento de la red neuronal
+y en la carpeta red_test se encuentra un programa para el testeo de la misma
