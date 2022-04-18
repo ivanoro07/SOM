@@ -1,0 +1,205 @@
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\Alumno14\source\repos\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+C:\Users\Alumno14\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+F:\proyecto final 2021\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Memory.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resultado.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Memory.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resultado.resources
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\Alumno12\Desktop\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resultado.resources
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\System.Memory.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+C:\Users\ivano\Desktop\red_test\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.pdb
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\Google.Protobuf.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\ZstdNet.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\System.Memory.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\System.Buffers.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.xml
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\bin\Debug\MySql.Web.xml
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbprojAssemblyReference.cache
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe.config
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.encuesta.resources
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Form1.resources
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resources.resources
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Register.resources
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo_SOM.Resultado.resources
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.GenerateResource.cache
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CoreCompileInputs.cache
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.vbproj.CopyComplete
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.exe
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.xml
+C:\Users\ivano\Desktop\SOM\prototipo SOM\prototipo SOM\obj\Debug\prototipo SOM.pdb
